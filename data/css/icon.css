@@ -1,0 +1,8 @@
+[icon-delete]{
+	float:right;
+	cursor:pointer;
+	background:url('icon/delete_icon.gif');
+	width:15px;
+	height:15px;
+	display:block;
+}
