@@ -4,6 +4,7 @@ class home extends CI_Controller {
 
 	public function __construct(){
 		parent::__construct();	
+		//zainu rochim
 		//$this->session->sess_destroy();
 		$this->load->library('pagination');
 	}
